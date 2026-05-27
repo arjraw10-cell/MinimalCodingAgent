@@ -41,6 +41,7 @@ class App(TextualApp):
         margin-bottom: 1;
         padding: 1;
         background: $boost;
+        height: auto;
     }
     """
 
